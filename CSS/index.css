@@ -4,9 +4,11 @@
     box-sizing: border-box;
 }
 
-.Logo img{
-    height: 25px;
-    width: 220px;
+.Logo {
+    text-decoration: none;
+    color: black;
+    font-family: 'Amaranth', sans-serif;
+    letter-spacing: 3px;
 }
 
 div{
